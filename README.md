@@ -12,6 +12,7 @@ This is a full-stack e-commerce application built to promote and support Nepales
 - PayPal integration
 - Protected routes with middleware
 - Hosted on Vercel
+- Authetication (o auth)-- remaining
 
 **Backend:**
 - Node.js + Express.js with typescript
