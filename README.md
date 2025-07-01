@@ -32,21 +32,6 @@ This is a personal project aimed at **promoting Nepalese handicrafts**. Fulfillm
 > “I am deeply enthusiastic about handicrafts and believe that art and human skills must be preserved in the age of AI, machines, and automation.”
 
 Visit the live site: [www.paperlampshade.com](https://www.paperlampshade.com)
-
-## 🚀 Getting Started
-
-### Client Setup
-
-```bash
-cd client
-npm install
-npm run dev
-
-### Client Setup
-cd server
-npm install
-npm run dev
-
 The future vision is to evolve this into a SaaS platform where Nepalese artisans can:
 
 Register as sellers
@@ -67,3 +52,19 @@ Preserve and promote traditional craftsmanship
 Support artists by handling logistics
 
 Make artisan goods accessible worldwide
+
+
+## 🚀 Getting Started
+
+### Client Setup
+
+```bash
+cd client
+npm install
+npm run dev
+
+### Client Setup
+cd server
+npm install
+npm run dev
+
