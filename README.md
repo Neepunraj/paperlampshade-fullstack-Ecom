@@ -53,7 +53,7 @@ Support artists by handling logistics
 
 Make artisan goods accessible worldwide
 
-
+NOTE: Make sure you get api from paypal and keep in .env, JWT and other required in this Project
 ## 🚀 Getting Started
 
 ### Client Setup
