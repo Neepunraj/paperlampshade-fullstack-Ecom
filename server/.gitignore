@@ -1,0 +1,8 @@
+node_modules
+# Keep environment variables out of version control
+.env
+dist/   
+dist/start.sh
+start.sh      # ignore start.sh in root
+server@1.0.0  # ignore temp folder
+*.save        # ignore editor backup files
