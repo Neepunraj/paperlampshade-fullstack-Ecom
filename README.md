@@ -63,7 +63,7 @@ cd client
 npm install
 npm run dev
 
-### Client Setup
+### Server Setup
 cd server
 npm install
 npm run dev
